@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\bin\Debug\Filtrowanie pojazdów.exe.config
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\bin\Debug\Filtrowanie pojazdów.exe
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\bin\Debug\Filtrowanie pojazdów.pdb
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie pojazdów.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie_pojazdów.Form1.resources
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie_pojazdów.Form2_Osobowy.resources
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie_pojazdów.Properties.Resources.resources
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie pojazdów.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie pojazdów.exe
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie pojazdów.pdb
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie_pojazdów.Form2_Motocykl.resources
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie_pojazdów.Form2_Ciezarowy.resources
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie_pojazdów.Form2_Dostawczy.resources
+C:\Users\micha\Desktop\Nowy folder (11)\Filtrowanie pojazdów\Filtrowanie pojazdów\obj\Debug\Filtrowanie_pojazdów.Form2_Rolniczy.resources
